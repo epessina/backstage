@@ -1,5 +1,11 @@
 # @backstage/eslint-plugin
 
+## 0.1.7-next.1
+
+### Patch Changes
+
+- d55828d: add fixer logic for import aliases
+
 ## 0.1.7-next.0
 
 ### Patch Changes

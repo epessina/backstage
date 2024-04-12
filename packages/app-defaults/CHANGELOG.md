@@ -1,5 +1,17 @@
 # @backstage/app-defaults
 
+## 1.5.4-next.2
+
+### Patch Changes
+
+- abfbcfc: Updated dependency `@testing-library/react` to `^15.0.0`.
+- Updated dependencies
+  - @backstage/core-app-api@1.12.4-next.1
+  - @backstage/core-components@0.14.4-next.1
+  - @backstage/core-plugin-api@1.9.2-next.0
+  - @backstage/theme@0.5.3-next.0
+  - @backstage/plugin-permission-react@0.4.22-next.0
+
 ## 1.5.4-next.1
 
 ### Patch Changes

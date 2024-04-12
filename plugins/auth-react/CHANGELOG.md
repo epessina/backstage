@@ -1,5 +1,15 @@
 # @backstage/plugin-auth-react
 
+## 0.1.0-next.2
+
+### Patch Changes
+
+- abfbcfc: Updated dependency `@testing-library/react` to `^15.0.0`.
+- Updated dependencies
+  - @backstage/core-components@0.14.4-next.1
+  - @backstage/core-plugin-api@1.9.2-next.0
+  - @backstage/errors@1.2.4
+
 ## 0.1.0-next.1
 
 ### Minor Changes

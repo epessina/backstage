@@ -1,5 +1,19 @@
 # @backstage/plugin-search-react
 
+## 1.7.10-next.2
+
+### Patch Changes
+
+- abfbcfc: Updated dependency `@testing-library/react` to `^15.0.0`.
+- Updated dependencies
+  - @backstage/core-components@0.14.4-next.1
+  - @backstage/core-plugin-api@1.9.2-next.0
+  - @backstage/frontend-plugin-api@0.6.4-next.2
+  - @backstage/theme@0.5.3-next.0
+  - @backstage/version-bridge@1.0.8-next.0
+  - @backstage/types@1.1.1
+  - @backstage/plugin-search-common@1.2.11
+
 ## 1.7.10-next.1
 
 ### Patch Changes

@@ -1,5 +1,18 @@
 # @backstage/backend-test-utils
 
+## 0.3.7-next.2
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/backend-app-api@0.7.0-next.2
+  - @backstage/backend-common@0.21.7-next.2
+  - @backstage/config@1.2.0
+  - @backstage/plugin-auth-node@0.4.12-next.2
+  - @backstage/backend-plugin-api@0.6.17-next.2
+  - @backstage/errors@1.2.4
+  - @backstage/types@1.1.1
+
 ## 0.3.7-next.1
 
 ### Patch Changes

@@ -1,5 +1,14 @@
 # @backstage/plugin-auth-backend-module-atlassian-provider
 
+## 0.1.9-next.2
+
+### Patch Changes
+
+- 269b4c1: Read scopes from config and pass to AtlassianProvider as they are required
+- Updated dependencies
+  - @backstage/plugin-auth-node@0.4.12-next.2
+  - @backstage/backend-plugin-api@0.6.17-next.2
+
 ## 0.1.9-next.1
 
 ### Patch Changes

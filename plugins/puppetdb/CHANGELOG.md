@@ -1,5 +1,17 @@
 # @backstage/plugin-puppetdb
 
+## 0.1.17-next.2
+
+### Patch Changes
+
+- abfbcfc: Updated dependency `@testing-library/react` to `^15.0.0`.
+- Updated dependencies
+  - @backstage/core-components@0.14.4-next.1
+  - @backstage/core-plugin-api@1.9.2-next.0
+  - @backstage/plugin-catalog-react@1.11.3-next.2
+  - @backstage/catalog-model@1.4.5
+  - @backstage/errors@1.2.4
+
 ## 0.1.17-next.1
 
 ### Patch Changes

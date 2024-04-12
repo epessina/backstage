@@ -1,5 +1,21 @@
 # @backstage/plugin-adr
 
+## 0.6.17-next.2
+
+### Patch Changes
+
+- abfbcfc: Updated dependency `@testing-library/react` to `^15.0.0`.
+- Updated dependencies
+  - @backstage/core-components@0.14.4-next.1
+  - @backstage/core-plugin-api@1.9.2-next.0
+  - @backstage/frontend-plugin-api@0.6.4-next.2
+  - @backstage/plugin-catalog-react@1.11.3-next.2
+  - @backstage/plugin-search-react@1.7.10-next.2
+  - @backstage/integration-react@1.1.26-next.1
+  - @backstage/catalog-model@1.4.5
+  - @backstage/plugin-adr-common@0.2.22-next.0
+  - @backstage/plugin-search-common@1.2.11
+
 ## 0.6.17-next.1
 
 ### Patch Changes

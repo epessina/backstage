@@ -1,5 +1,13 @@
 # @backstage/create-app
 
+## 0.5.14-next.2
+
+### Patch Changes
+
+- 2e1218c: Fix docs reference
+- Updated dependencies
+  - @backstage/cli-common@0.1.13
+
 ## 0.5.14-next.1
 
 ### Patch Changes

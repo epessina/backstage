@@ -1,5 +1,17 @@
 # @backstage/plugin-sonarqube
 
+## 0.7.16-next.2
+
+### Patch Changes
+
+- abfbcfc: Updated dependency `@testing-library/react` to `^15.0.0`.
+- Updated dependencies
+  - @backstage/core-components@0.14.4-next.1
+  - @backstage/core-plugin-api@1.9.2-next.0
+  - @backstage/plugin-catalog-react@1.11.3-next.2
+  - @backstage/plugin-sonarqube-react@0.1.15-next.0
+  - @backstage/catalog-model@1.4.5
+
 ## 0.7.16-next.1
 
 ### Patch Changes

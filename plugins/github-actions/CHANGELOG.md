@@ -1,5 +1,18 @@
 # @backstage/plugin-github-actions
 
+## 0.6.15-next.2
+
+### Patch Changes
+
+- abfbcfc: Updated dependency `@testing-library/react` to `^15.0.0`.
+- Updated dependencies
+  - @backstage/core-components@0.14.4-next.1
+  - @backstage/core-plugin-api@1.9.2-next.0
+  - @backstage/plugin-catalog-react@1.11.3-next.2
+  - @backstage/integration-react@1.1.26-next.1
+  - @backstage/catalog-model@1.4.5
+  - @backstage/integration@1.10.0-next.0
+
 ## 0.6.15-next.1
 
 ### Patch Changes

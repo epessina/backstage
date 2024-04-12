@@ -1,5 +1,19 @@
 # @backstage/test-utils
 
+## 1.5.4-next.1
+
+### Patch Changes
+
+- abfbcfc: Updated dependency `@testing-library/react` to `^15.0.0`.
+- Updated dependencies
+  - @backstage/core-app-api@1.12.4-next.1
+  - @backstage/core-plugin-api@1.9.2-next.0
+  - @backstage/theme@0.5.3-next.0
+  - @backstage/plugin-permission-react@0.4.22-next.0
+  - @backstage/config@1.2.0
+  - @backstage/types@1.1.1
+  - @backstage/plugin-permission-common@0.7.13
+
 ## 1.5.4-next.0
 
 ### Patch Changes

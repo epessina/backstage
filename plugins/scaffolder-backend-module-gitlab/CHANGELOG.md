@@ -1,5 +1,19 @@
 # @backstage/plugin-scaffolder-backend-module-gitlab
 
+## 0.3.3-next.2
+
+### Patch Changes
+
+- aa514d1: Add examples for `publish:gitlab:merge-request` scaffolder action & improve related tests
+- 52f40ea: Add examples for `gitlab:group:ensureExists` scaffolder action & improve related tests
+- Updated dependencies
+  - @backstage/backend-common@0.21.7-next.2
+  - @backstage/config@1.2.0
+  - @backstage/plugin-scaffolder-node@0.4.3-next.2
+  - @backstage/backend-plugin-api@0.6.17-next.2
+  - @backstage/errors@1.2.4
+  - @backstage/integration@1.10.0-next.0
+
 ## 0.3.3-next.1
 
 ### Patch Changes

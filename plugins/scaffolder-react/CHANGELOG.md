@@ -1,5 +1,21 @@
 # @backstage/plugin-scaffolder-react
 
+## 1.8.4-next.2
+
+### Patch Changes
+
+- abfbcfc: Updated dependency `@testing-library/react` to `^15.0.0`.
+- Updated dependencies
+  - @backstage/core-components@0.14.4-next.1
+  - @backstage/core-plugin-api@1.9.2-next.0
+  - @backstage/theme@0.5.3-next.0
+  - @backstage/version-bridge@1.0.8-next.0
+  - @backstage/plugin-catalog-react@1.11.3-next.2
+  - @backstage/catalog-client@1.6.4-next.0
+  - @backstage/catalog-model@1.4.5
+  - @backstage/types@1.1.1
+  - @backstage/plugin-scaffolder-common@1.5.1
+
 ## 1.8.4-next.1
 
 ### Patch Changes
