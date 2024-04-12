@@ -54,7 +54,7 @@
     "@backstage/backend-test-utils": "workspace:^",
     "@backstage/cli": "workspace:^",
     "@types/body-parser-xml": "^2.0.2",
-    "@types/supertest": "^2.0.8",
+    "@types/supertest": "^6.0.0",
     "supertest": "^6.1.6",
     "xml2js": "^0.6.0"
   }
